@@ -52,6 +52,12 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 ![Captura de tela 2024-04-12 122652](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/ca017ecf-90fe-413c-9d16-e89488cff34b)
 
 
+## Aplicação de Displacement 🧱
+
+![Captura de tela 2024-04-12 123034](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/b9d2310e-9410-4f26-b328-12a19bff97fa)
+
+
+
 
 
 
