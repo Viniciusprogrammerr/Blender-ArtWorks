@@ -4,7 +4,8 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 
 ## Minha Face 😀
 
-![Captura de tela 2024-04-12 114137](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/96df5b8b-dd2a-41de-acb9-a8d4113f2dcb)
+![Captura de tela 2024-04-12 193543](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/acea5211-feed-40da-bca0-27bb2ca542bb)
+
 
 
 ## Urso 🐻
