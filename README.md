@@ -27,6 +27,12 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 ![Captura de tela 2024-04-12 120748](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/15372ab8-1478-453c-8fd9-fe67abdcf1eb)
 
 
+## Suzzane de metal dourado, iluminação e HDR 🐵
+
+![Captura de tela 2024-04-12 121142](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/c0d93761-dd5d-412c-b7b6-bb0e7d194472)
+
+
+
 
 
 
