@@ -8,7 +8,8 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 
 ## Minha Face
 
-![Uploading Captura de tela 2024-04-12 114137.png…]()
+![Captura de tela 2024-04-12 114623](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/e8aa6054-23b9-4da8-ada1-1769ed3fe0ae)
+
 
 
 
