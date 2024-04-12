@@ -37,6 +37,12 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 ![Captura de tela 2024-04-12 121604](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/b9d9a511-002a-4f92-98ed-c400b25e586b)
 
 
+## Suzanne com efeito subsurface, iluminação e HDR 🐵
+
+![Captura de tela 2024-04-12 121901](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/9104b0a5-f690-4aa4-956a-439e6587ea53)
+
+
+
 
 
 
