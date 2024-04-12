@@ -27,12 +27,12 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 ![Captura de tela 2024-04-12 120748](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/15372ab8-1478-453c-8fd9-fe67abdcf1eb)
 
 
-## Suzzane de metal dourado, iluminação e HDR 🐵
+## Suzanne de metal dourado, iluminação e HDR 🐵
 
 ![Captura de tela 2024-04-12 121142](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/c0d93761-dd5d-412c-b7b6-bb0e7d194472)
 
 
-## Suzzane de metal prateado, iluminação e HDR 🐵
+## Suzanne de metal prateado, iluminação e HDR 🐵
 
 ![Captura de tela 2024-04-12 121604](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/b9d9a511-002a-4f92-98ed-c400b25e586b)
 
@@ -40,6 +40,12 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 ## Suzanne com efeito subsurface, iluminação e HDR 🐵
 
 ![Captura de tela 2024-04-12 121901](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/9104b0a5-f690-4aa4-956a-439e6587ea53)
+
+
+## Suzanne de vidro, iluminação e HDR 🐵
+
+![Captura de tela 2024-04-12 122146](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/a88e3582-4985-4f53-ad06-8c5902d9e889)
+
 
 
 
