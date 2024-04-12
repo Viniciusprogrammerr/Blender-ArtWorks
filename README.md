@@ -47,6 +47,12 @@ Neste repositório, você encontrará artes produzidas usando o software Blender
 ![Captura de tela 2024-04-12 122146](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/a88e3582-4985-4f53-ad06-8c5902d9e889)
 
 
+## Normal Maps 🪨
+
+![Captura de tela 2024-04-12 122652](https://github.com/Viniciusprogrammerr/Blender-ArtWorks/assets/141420705/ca017ecf-90fe-413c-9d16-e89488cff34b)
+
+
+
 
 
 
